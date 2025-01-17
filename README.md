@@ -4,11 +4,11 @@ Step 4 is a project to create a flutter based app that will help someone complet
 
 ## Features
 
-- [] contain inventory objects
-- [] attach contacts to them
-- [] document if they need to make amends or are capable to make amends
-- [] confession tracker
-- [] cloud sync
+- [ ] contain inventory objects
+- [ ] attach contacts to them
+- [ ] document if they need to make amends or are capable to make amends
+- [ ] confession tracker
+- [ ] cloud sync
 
 
 ## Getting Started
